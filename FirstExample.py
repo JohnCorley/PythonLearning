@@ -33,3 +33,5 @@ def MySquare(num):
     
 print(MySquare(10))
 
+print (MySquare(100))
+
