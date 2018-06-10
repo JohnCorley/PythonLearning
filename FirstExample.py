@@ -27,11 +27,17 @@ else:
     print ("must be equal")
 
 
-def MySquare(num):
+def MyPower(num):
     answer = num ** num
     return(answer)
     
-print(MySquare(10))
+print(MyPower(10))
 
-print (MySquare(100))
+print (MyPower(100))
 
+
+def task1():
+    return()
+
+def task2():
+    print ("Hello")
